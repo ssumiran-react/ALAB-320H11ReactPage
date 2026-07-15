@@ -17,6 +17,15 @@
   }
 }
 
+.item {
+  padding: 2px;
+  border: 2px solid red;
+  text-align: left;
+}
+.columnSection{
+  width: 50%;
+  align-items: left;
+}
 .hero {
   position: relative;
 
