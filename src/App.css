@@ -9,3 +9,8 @@
   width: 50%;
   align-items: left;
 }
+
+.header{
+  padding: 2px;
+  border: 2px solid blue;
+}
